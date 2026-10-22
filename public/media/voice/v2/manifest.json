@@ -1,0 +1,209 @@
+[
+  {
+    "phrase": "intro",
+    "text": "Hello, little friend! Let's have a picnic. Can you help me?",
+    "model": "Ming-3.0-tts",
+    "file": "/media/voice/v2/intro.mp3",
+    "duration_seconds": 2.6465,
+    "bytes": 10586,
+    "realModel": true
+  },
+  {
+    "phrase": "complete",
+    "text": "Great job! You helped me. Thank you, my friend!",
+    "model": "Ming-3.0-tts",
+    "file": "/media/voice/v2/complete.mp3",
+    "duration_seconds": 2.542,
+    "bytes": 10168,
+    "realModel": true
+  },
+  {
+    "phrase": "retry",
+    "text": "Let's listen again. Listen, and say it with me!",
+    "model": "Ming-3.0-tts",
+    "file": "/media/voice/v2/retry.mp3",
+    "duration_seconds": 2.35925,
+    "bytes": 9437,
+    "realModel": true
+  },
+  {
+    "phrase": "unheard",
+    "text": "I couldn't hear you. Let's try again!",
+    "model": "Ming-3.0-tts",
+    "file": "/media/voice/v2/unheard.mp3",
+    "duration_seconds": 2.6465,
+    "bytes": 10586,
+    "realModel": true
+  },
+  {
+    "phrase": "finish",
+    "text": "Hooray! Our picnic is ready! You're a wonderful helper!",
+    "model": "Ming-3.0-tts",
+    "file": "/media/voice/v2/finish.mp3",
+    "duration_seconds": 2.38525,
+    "bytes": 9541,
+    "realModel": true
+  },
+  {
+    "phrase": "word-apple",
+    "text": "Apple. Apple! Can you say apple?",
+    "model": "Ming-3.0-tts",
+    "file": "/media/voice/v2/word-apple.mp3",
+    "duration_seconds": 2.46375,
+    "bytes": 9855,
+    "realModel": true
+  },
+  {
+    "phrase": "please-apple",
+    "text": "An apple, please. An apple, please. Your turn!",
+    "model": "Ming-3.0-tts",
+    "file": "/media/voice/v2/please-apple.mp3",
+    "duration_seconds": 2.4375,
+    "bytes": 9750,
+    "realModel": true
+  },
+  {
+    "phrase": "word-banana",
+    "text": "Banana. Banana! Can you say banana?",
+    "model": "Ming-3.0-tts",
+    "file": "/media/voice/v2/word-banana.mp3",
+    "duration_seconds": 2.35925,
+    "bytes": 9437,
+    "realModel": true
+  },
+  {
+    "phrase": "please-banana",
+    "text": "A banana, please. A banana, please. Your turn!",
+    "model": "Ming-3.0-tts",
+    "file": "/media/voice/v2/please-banana.mp3",
+    "duration_seconds": 2.28075,
+    "bytes": 9123,
+    "realModel": true
+  },
+  {
+    "phrase": "word-orange",
+    "text": "Orange. Orange! Can you say orange?",
+    "model": "Ming-3.0-tts",
+    "file": "/media/voice/v2/word-orange.mp3",
+    "duration_seconds": 2.17625,
+    "bytes": 8705,
+    "realModel": true
+  },
+  {
+    "phrase": "please-orange",
+    "text": "An orange, please. An orange, please. Your turn!",
+    "model": "Ming-3.0-tts",
+    "file": "/media/voice/v2/please-orange.mp3",
+    "duration_seconds": 2.82925,
+    "bytes": 11317,
+    "realModel": true
+  },
+  {
+    "phrase": "word-pear",
+    "text": "Pear. Pear! Can you say pear?",
+    "model": "Ming-3.0-tts",
+    "file": "/media/voice/v2/word-pear.mp3",
+    "duration_seconds": 2.46375,
+    "bytes": 9855,
+    "realModel": true
+  },
+  {
+    "phrase": "please-pear",
+    "text": "A pear, please. A pear, please. Your turn!",
+    "model": "Ming-3.0-tts",
+    "file": "/media/voice/v2/please-pear.mp3",
+    "duration_seconds": 2.4375,
+    "bytes": 9750,
+    "realModel": true
+  },
+  {
+    "phrase": "word-grapes",
+    "text": "Grapes. Grapes! Can you say grapes?",
+    "model": "Ming-3.0-tts",
+    "file": "/media/voice/v2/word-grapes.mp3",
+    "duration_seconds": 2.25475,
+    "bytes": 9019,
+    "realModel": true
+  },
+  {
+    "phrase": "please-grapes",
+    "text": "Some grapes, please. Some grapes, please. Your turn!",
+    "model": "Ming-3.0-tts",
+    "file": "/media/voice/v2/please-grapes.mp3",
+    "duration_seconds": 2.6465,
+    "bytes": 10586,
+    "realModel": true
+  },
+  {
+    "phrase": "word-strawberry",
+    "text": "Strawberry. Strawberry! Can you say strawberry?",
+    "model": "Ming-3.0-tts",
+    "file": "/media/voice/v2/word-strawberry.mp3",
+    "duration_seconds": 2.542,
+    "bytes": 10168,
+    "realModel": true
+  },
+  {
+    "phrase": "please-strawberry",
+    "text": "A strawberry, please. A strawberry, please. Your turn!",
+    "model": "Ming-3.0-tts",
+    "file": "/media/voice/v2/please-strawberry.mp3",
+    "duration_seconds": 2.17625,
+    "bytes": 8705,
+    "realModel": true
+  },
+  {
+    "phrase": "color-yellow",
+    "text": "Yellow. A yellow cup. Can you say yellow?",
+    "model": "Ming-3.0-tts",
+    "file": "/media/voice/v2/color-yellow.mp3",
+    "duration_seconds": 4.29225,
+    "bytes": 17169,
+    "realModel": true
+  },
+  {
+    "phrase": "color-green",
+    "text": "Green. A green cup. Can you say green?",
+    "model": "Ming-3.0-tts",
+    "file": "/media/voice/v2/color-green.mp3",
+    "duration_seconds": 3.43025,
+    "bytes": 13721,
+    "realModel": true
+  },
+  {
+    "phrase": "color-purple",
+    "text": "Purple. A purple cup. Can you say purple?",
+    "model": "Ming-3.0-tts",
+    "file": "/media/voice/v2/color-purple.mp3",
+    "duration_seconds": 2.28075,
+    "bytes": 9123,
+    "realModel": true
+  },
+  {
+    "phrase": "color-blue",
+    "text": "Blue. A blue cup. Can you say blue?",
+    "model": "Ming-3.0-tts",
+    "file": "/media/voice/v2/color-blue.mp3",
+    "duration_seconds": 3.24725,
+    "bytes": 12989,
+    "realModel": true
+  },
+  {
+    "phrase": "color-red",
+    "text": "Red. A red cup. Red!",
+    "model": "Ming-3.0-tts",
+    "file": "/media/voice/v2/color-red.mp3",
+    "duration_seconds": 2.15025,
+    "bytes": 8601,
+    "realModel": true
+  },
+  {
+    "phrase": "color-orange",
+    "text": "Orange. An orange cup. Orange!",
+    "model": "Ming-3.0-tts",
+    "file": "/media/voice/v2/color-orange.mp3",
+    "duration_seconds": 2.8555,
+    "bytes": 11422,
+    "realModel": true
+  }
+]

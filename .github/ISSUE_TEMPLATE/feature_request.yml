@@ -1,0 +1,16 @@
+name: 改进建议
+description: 提出学习场景或交互改进
+title: "[Feature] "
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: 想解决的具体问题
+    validations:
+      required: true
+  - type: textarea
+    id: idea
+    attributes:
+      label: 建议的体验与场景
+    validations:
+      required: true

@@ -1,0 +1,26 @@
+# Dependencies and generated output
+/node_modules/
+/.next/
+/out/
+/dist/
+/coverage/
+*.tsbuildinfo
+npm-debug.log*
+
+# Secrets: only the empty example belongs in Git
+.env*
+!.env.example
+.dev.vars*
+*.pem
+*.key
+
+# Local tooling, recordings, archives and OS files
+/.openai/
+/.wrangler/
+/.sites-runtime/
+/.codex/
+/.agents/
+/evidence/
+/recordings/
+*.zip
+.DS_Store

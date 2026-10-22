@@ -1,0 +1,34 @@
+{
+  "name": "speaking-island",
+  "version": "0.1.0",
+  "private": true,
+  "description": "开口小岛：用 Ming 语音模型陪孩子完成英语野餐任务。",
+  "license": "MIT",
+  "type": "module",
+  "engines": {
+    "node": ">=22.13.0"
+  },
+  "scripts": {
+    "dev": "next dev --webpack --hostname 127.0.0.1",
+    "build": "next build --webpack",
+    "start": "next start --hostname 127.0.0.1",
+    "typecheck": "tsc --noEmit",
+    "test": "node --experimental-strip-types --test tests/*.test.mjs",
+    "check:release": "node scripts/release-audit.mjs",
+    "test:smoke": "node tests/runtime-smoke.mjs"
+  },
+  "dependencies": {
+    "next": "16.4.2",
+    "react": "19.3.1",
+    "react-dom": "19.3.1",
+    "lucide-react": "1.31.0"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "4.2.1",
+    "tailwindcss": "4.2.1",
+    "typescript": "5.9.3",
+    "@types/node": "22.19.19",
+    "@types/react": "19.3.0",
+    "@types/react-dom": "19.3.0"
+  }
+}

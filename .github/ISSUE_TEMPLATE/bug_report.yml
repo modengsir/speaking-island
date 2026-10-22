@@ -1,0 +1,26 @@
+name: 问题反馈
+description: 帮助我们复现界面或语音问题
+title: "[Bug] "
+body:
+  - type: textarea
+    id: steps
+    attributes:
+      label: 复现步骤
+      description: 请勿填写密钥、访问口令或真实儿童录音。
+    validations:
+      required: true
+  - type: textarea
+    id: behavior
+    attributes:
+      label: 预期与实际结果
+    validations:
+      required: true
+  - type: input
+    id: environment
+    attributes:
+      label: 浏览器 / 系统 / 项目版本
+  - type: textarea
+    id: diagnostics
+    attributes:
+      label: 不含敏感内容的错误提示或截图
+      description: 语音问题可描述 HTTP 状态码和错误类型，复现音频请使用合成样例。
